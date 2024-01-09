@@ -1,0 +1,250 @@
+movieId,title,year,duration,certification,rating,reviews
+0111161,The Shawshank Redemption,1994,2h 22m,A,9.3,2.8M
+0068646,The Godfather,1972,2h 55m,A,9.2,2M
+0468569,The Dark Knight,2008,2h 32m,UA,9.0,2.8M
+0071562,The Godfather: Part II,1974,3h 22m,A,9.0,1.3M
+0050083,12 Angry Men,1957,1h 36m,U,9.0,848K
+0108052,Schindler's List,1993,3h 15m,A,9.0,1.4M
+0167260,The Lord of the Rings: The Return of the King,2003,3h 21m,U,9.0,1.9M
+0110912,Pulp Fiction,1994,2h 34m,A,8.9,2.2M
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,U,8.9,2M
+0060196,"Il Buono, Il Brutto, Il Cattivo",1966,2h 41m,A,8.8,800K
+0109830,Forrest Gump,1994,2h 22m,UA,8.8,2.2M
+0137523,Fight Club,1999,2h 19m,A,8.8,2.3M
+0167261,The Lord of the Rings: The Two Towers,2002,2h 59m,UA,8.8,1.8M
+1375666,Inception,2010,2h 28m,UA,8.8,2.5M
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,2h 4m,UA,8.7,1.4M
+0133093,The Matrix,1999,2h 16m,A,8.7,2M
+0099685,GoodFellas,1990,2h 25m,A,8.7,1.2M
+0073486,One Flew Over the Cuckoo's Nest,1975,2h 13m,A,8.7,1.1M
+0114369,Se7en,1995,2h 7m,A,8.6,1.8M
+0038650,It's a Wonderful Life,1946,2h 10m,PG,8.6,493K
+0047478,Shichinin No Samurai,1954,3h 27m,U,8.6,362K
+0816692,Interstellar,2014,2h 49m,UA,8.7,2M
+0102926,The Silence of the Lambs,1991,1h 58m,A,8.6,1.5M
+0120815,Saving Private Ryan,1998,2h 49m,A,8.6,1.5M
+0317248,City of God,2002,2h 10m,A,8.6,791K
+0118799,Life Is Beautiful,1997,1h 56m,U,8.6,733K
+0120689,The Green Mile,1999,3h 9m,UA,8.6,1.4M
+0076759,Star Wars: Episode IV - A New Hope,1977,2h 1m,U,8.6,1.4M
+0103064,Terminator 2: Judgment Day,1991,2h 17m,A,8.6,1.2M
+9362722,Spider-man: Across the Spider-verse,2023,2h 20m,U,8.6,329K
+0088763,Back to the Future,1985,1h 56m,U,8.5,1.3M
+0245429,Spirited Away,2001,2h 5m,U,8.6,829K
+0253474,The Pianist,2002,2h 30m,13,8.5,895K
+6751668,Parasite,2019,2h 12m,A,8.5,921K
+0054215,Psycho,1960,1h 49m,A,8.5,709K
+0172495,Gladiator,2000,2h 35m,UA,8.5,1.6M
+0110357,The Lion King,1994,1h 28m,U,8.5,1.1M
+0110413,Léon,1994,1h 50m,A,8.5,1.2M
+0407887,The Departed,2006,2h 31m,A,8.5,1.4M
+0120586,American History X,1998,1h 59m,R,8.5,1.2M
+2582802,Whiplash,2014,1h 46m,A,8.5,960K
+0482571,The Prestige,2006,2h 10m,U,8.5,1.4M
+0095327,Grave of the Fireflies,1988,1h 29m,U,8.5,303K
+0056058,Seppuku,1962,2h 13m,Not Rated,8.6,66K
+0114814,The Usual Suspects,1995,1h 46m,A,8.5,1.1M
+0034583,Casablanca,1942,1h 42m,U,8.5,599K
+1675434,Intouchables,2011,1h 52m,UA,8.5,913K
+0027977,Modern Times,1936,1h 27m,G,8.5,256K
+0095765,Cinema Paradiso,1988,2h 35m,U,8.5,278K
+0047396,Rear Window,1954,1h 52m,U,8.5,515K
+0064116,C'era Una Volta Il West,1968,2h 46m,U,8.5,345K
+0078748,Alien,1979,1h 57m,R,8.5,935K
+0021749,City Lights,1931,1h 27m,G,8.5,194K
+0078788,Apocalypse Now,1979,2h 27m,R,8.4,701K
+1853728,Django Unchained,2012,2h 45m,A,8.5,1.7M
+0209144,Memento,2000,1h 53m,UA,8.4,1.3M
+0082971,Raiders of the Lost Ark,1981,1h 55m,A,8.4,1M
+0910970,WALL·E,2008,1h 38m,U,8.4,1.2M
+0405094,Das Leben der Anderen,2006,2h 17m,A,8.4,406K
+0043014,Sunset Blvd.,1950,1h 50m,Passed,8.4,233K
+0050825,Paths of Glory,1957,1h 28m,A,8.4,209K
+4154756,Avengers: Infinity War,2018,2h 29m,UA,8.4,1.2M
+4633694,Spider-Man: Into the Spider-Verse,2018,1h 57m,U,8.4,651K
+0081505,The Shining,1980,2h 26m,A,8.4,1.1M
+0051201,Witness for the Prosecution,1957,1h 56m,U,8.4,135K
+0032553,The Great Dictator,1940,2h 5m,G,8.4,235K
+0090605,Alien 2,1986,2h 17m,U,8.4,753K
+0361748,Inglourious Basterds,2009,2h 33m,A,8.4,1.6M
+15398776,Oppenheimer,2023,3h,R,8.4,588K
+1345836,The Dark Knight Rises,2012,2h 44m,UA,8.4,1.8M
+0169547,American Beauty,1999,2h 2m,UA,8.3,1.2M
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1h 35m,A,8.4,512K
+0364569,Oldeuboi,2003,1h 41m,A,8.4,623K
+2380307,Coco,2017,1h 45m,U,8.4,573K
+0086879,Amadeus,1984,2h 40m,PG,8.4,422K
+0114709,Toy Story,1995,1h 21m,U,8.3,1.1M
+0082096,Das Boot,1981,2h 29m,8.4 (262K)Rate,8.4,2
+0112573,Braveheart,1995,2h 58m,A,8.3,1.1M
+4154796,Avengers: Endgame,2019,3h 1m,UA,8.4,1.2M
+7286456,Joker,2019,2h 2m,A,8.4,1.4M
+23849204,12th Fail,2023,2h 27m,9.2 (52K)Rate,9.2,
+0119698,Mononoke-hime,1997,2h 14m,U,8.3,424K
+0119217,Good Will Hunting,1997,2h 6m,U,8.3,1M
+5311514,Kimi No Na Wa.,2016,1h 46m,U,8.4,309K
+0087843,Once Upon a Time in America,1984,3h 49m,A,8.3,372K
+1187043,3 Idiots,2009,2h 50m,UA,8.4,426K
+0057565,Tengoku to Jigoku,1963,2h 23m,Not Rated,8.4,51K
+0045152,Singin' in the Rain,1952,1h 43m,G,8.3,257K
+8267604,Capharnaüm,2018,2h 6m,A,8.4,102K
+0180093,Requiem for a Dream,2000,1h 42m,A,8.3,887K
+0091251,Idi I Smotri,1985,2h 22m,A,8.4,93K
+0435761,Toy Story 3,2010,1h 43m,U,8.3,881K
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,2h 11m,U,8.3,1.1M
+0338013,Eternal Sunshine of the Spotless Mind,2004,1h 48m,UA,8.3,1.1M
+2106476,Jagten,2012,1h 55m,7,8.3,357K
+0062622,2001: A Space Odyssey,1968,2h 29m,U,8.3,709K
+0105236,Reservoir Dogs,1992,1h 39m,15+,8.3,1.1M
+0044741,Ikiru,1952,2h 23m,U,8.3,86K
+0056172,Lawrence of Arabia,1962,3h 38m,U,8.3,310K
+0053604,The Apartment,1960,2h 5m,U,8.3,193K
+0033467,Citizen Kane,1941,1h 59m,UA,8.3,461K
+0022100,M - Eine Stadt sucht einen Mörder,1931,1h 57m,Passed,8.3,166K
+0053125,North by Northwest,1959,2h 16m,U,8.3,342K
+0052357,Vertigo,1958,2h 8m,A,8.3,422K
+0036775,Double Indemnity,1944,1h 47m,Passed,8.3,165K
+0086250,Scarface,1983,2h 50m,A,8.3,900K
+0211915,Le fabuleux destin d'Amélie Poulain,2001,2h 2m,U,8.3,786K
+0093058,Full Metal Jacket,1987,1h 56m,UA,8.3,780K
+1255953,Incendies,2010,2h 11m,18,8.3,193K
+0066921,A Clockwork Orange,1971,2h 16m,A,8.3,870K
+0113277,Heat,1995,2h 50m,A,8.3,706K
+1049413,Up,2009,1h 36m,U,8.3,1.1M
+0056592,To Kill a Mockingbird,1962,2h 9m,U,8.3,329K
+0070735,The Sting,1973,2h 9m,U,8.3,276K
+1832382,Jodaeiye Nader Az Simin,2011,2h 3m,7,8.3,256K
+0097576,Indiana Jones and the Last Crusade,1989,2h 7m,U,8.2,802K
+8503618,Hamilton,2020,2h 40m,12+,8.3,110K
+0095016,Die Hard,1988,2h 12m,A,8.2,934K
+0017136,Metropolis,1927,2h 33m,Not Rated,8.3,183K
+0986264,Taare Zameen Par,2007,2h 42m,U,8.3,204K
+0208092,Snatch,2000,1h 44m,UA,8.2,897K
+0040522,Ladri Di Biciclette,1948,1h 29m,U,8.3,173K
+0119488,L.A. Confidential,1997,2h 18m,A,8.2,610K
+8579674,1917,2019,1h 59m,R,8.2,658K
+0075314,Taxi Driver,1976,1h 54m,A,8.2,903K
+0363163,Der Untergang,2004,2h 36m,UA,8.2,371K
+5074352,Dangal,2016,2h 41m,U,8.3,206K
+0059578,Per qualche dollaro in più,1965,2h 12m,U,8.2,271K
+0372784,Batman Begins,2005,2h 20m,UA,8.2,1.6M
+0053291,Some Like It Hot,1959,2h 1m,U,8.2,280K
+0993846,The Wolf of Wall Street,2013,3h,A,8.2,1.5M
+0012349,The Kid,1921,1h 8m,Passed,8.2,133K
+1745960,Top Gun: Maverick,2022,2h 10m,UA,8.3,660K
+10272386,The Father,2020,1h 37m,UA,8.2,185K
+6966692,Green Book,2018,2h 10m,UA,8.2,550K
+0042192,All About Eve,1950,2h 18m,Passed,8.2,137K
+0055031,Judgment at Nuremberg,1961,2h 59m,A,8.3,83K
+0120382,The Truman Show,1998,1h 43m,U,8.2,1.2M
+0469494,There Will Be Blood,2007,2h 38m,A,8.2,631K
+1130884,Shutter Island,2010,2h 18m,A,8.2,1.4M
+0112641,Casino,1995,2h 58m,A,8.2,555K
+0089881,Ran,1985,2h 40m,Not Rated,8.2,134K
+0107290,Jurassic Park,1993,2h 7m,UA,8.2,1.1M
+0457430,El Laberinto Del Fauno,2006,1h 58m,R,8.2,696K
+0167404,The Sixth Sense,1999,1h 47m,A,8.2,1M
+0105695,Unforgiven,1992,2h 10m,A,8.2,431K
+0268978,A Beautiful Mind,2001,2h 15m,UA,8.2,975K
+0477348,No Country for Old Men,2007,2h 2m,18,8.2,1M
+0040897,The Treasure of the Sierra Madre,1948,2h 6m,Passed,8.2,131K
+0055630,Yôjinbô,1961,1h 50m,U,8.2,130K
+0084787,The Thing,1982,1h 49m,A,8.2,458K
+0266697,Kill Bill: Vol. 1,2003,1h 51m,A,8.2,1.2M
+0071853,Monty Python and the Holy Grail,1975,1h 31m,U,8.2,564K
+0057115,The Great Escape,1963,2h 52m,U,8.2,256K
+0266543,Finding Nemo,2003,1h 40m,U,8.2,1.1M
+0080678,The Elephant Man,1980,2h 4m,UA,8.2,255K
+0071315,Chinatown,1974,2h 10m,UA,8.2,344K
+0347149,Hauru No Ugoku Shiro,2004,1h 59m,U,8.2,436K
+1392214,Prisoners,2013,2h 33m,A,8.1,789K
+0046912,Dial M for Murder,1954,1h 45m,A,8.2,186K
+0031381,Gone with the Wind,1939,3h 58m,U,8.2,330K
+0434409,V for Vendetta,2005,2h 12m,UA,8.2,1.2M
+0120735,"Lock, Stock and Two Smoking Barrels",1998,1h 47m,A,8.1,609K
+1305806,El Secreto De Sus Ojos,2009,2h 9m,R,8.2,220K
+0081398,Raging Bull,1980,2h 9m,A,8.1,375K
+2096673,Inside Out,2015,1h 35m,U,8.1,770K
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,1h 55m,A,8.1,545K
+23289160,Godzilla Minus One,2023,2h 4m,PG-13,8.4,35K
+10872600,Spider-Man: No Way Home,2021,2h 28m,UA,8.2,855K
+0117951,Trainspotting,1996,1h 33m,A,8.1,717K
+0050212,The Bridge on the River Kwai,1957,2h 41m,U,8.1,231K
+0116282,Fargo,1996,1h 38m,A,8.1,714K
+1291584,Warrior,2011,2h 20m,UA,8.1,492K
+4729430,Klaus,2019,1h 36m,7,8.2,184K
+0264464,Catch Me If You Can,2002,2h 21m,A,8.1,1.1M
+1205489,Gran Torino,2008,1h 56m,UA,8.1,807K
+0096283,My Neighbour Totoro,1988,1h 26m,U,8.1,370K
+0405159,Million Dollar Baby,2004,2h 12m,UA,8.1,714K
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,UA,8.1,933K
+0118849,Bacheha-Ye Aseman,1997,1h 29m,PG,8.2,79K
+0083658,Blade Runner,1982,1h 57m,UA,8.1,812K
+2024544,12 Years a Slave,2013,2h 14m,A,8.1,733K
+0112471,Before Sunrise,1995,1h 41m,16,8.1,333K
+2278388,The Grand Budapest Hotel,2014,1h 39m,UA,8.1,872K
+0052618,Ben-Hur,1959,3h 32m,U,8.1,251K
+0072684,Barry Lyndon,1975,3h 5m,U,8.1,180K
+2267998,Gone Girl,2014,2h 29m,A,8.1,1M
+0015864,The Gold Rush,1925,1h 35m,Passed,8.1,117K
+2119532,Hacksaw Ridge,2016,2h 19m,A,8.1,580K
+0107207,In the Name of the Father,1993,2h 13m,UA,8.1,185K
+0353969,Salinui Chueok,2003,2h 11m,UA,8.1,209K
+0047296,On the Waterfront,1954,1h 48m,A,8.1,163K
+0017925,The General,1926,1h 18m,Passed,8.1,97K
+0077416,The Deer Hunter,1978,3h 3m,A,8.1,358K
+0097165,Dead Poets Society,1989,2h 8m,U,8.1,533K
+3011894,Relatos Salvajes,2014,2h 2m,18,8.1,213K
+1392190,Mad Max: Fury Road,2015,2h,UA,8.1,1.1M
+0050986,Smultronstället,1957,1h 31m,U,8.1,113K
+0041959,The Third Man,1949,1h 44m,U,8.1,180K
+0046268,Le Salaire De La Peur,1953,2h 11m,U,8.2,65K
+0015324,Sherlock Jr.,1924,45m,Passed,8.2,55K
+0198781,"Monsters, Inc.",2001,1h 32m,U,8.1,964K
+0073195,Jaws,1975,2h 4m,A,8.1,650K
+0031679,Mr. Smith Goes to Washington,1939,2h 9m,U,8.1,120K
+0892769,How to Train Your Dragon,2010,1h 38m,U,8.1,787K
+0978762,Mary and Max,2009,1h 32m,U,8.1,185K
+1950186,Ford v. Ferrari,2019,2h 32m,UA,8.1,451K
+0382932,Ratatouille,2007,1h 51m,U,8.1,805K
+0050976,Det Sjunde Inseglet,1957,1h 36m,A,8.1,196K
+3170832,Room,2015,1h 58m,U,8.1,444K
+0118715,The Big Lebowski,1998,1h 57m,UA,8.1,850K
+0046438,Tokyo Story,1953,2h 16m,U,8.1,67K
+0075148,Rocky,1976,2h,U,8.1,619K
+0395169,Hotel Rwanda,2004,2h 1m,UA,8.1,369K
+3315342,Logan,2017,2h 17m,A,8.1,816K
+1895587,Spotlight,2015,2h 9m,A,8.1,496K
+0091763,Platoon,1986,2h,UA,8.1,433K
+0019254,La passion de Jeanne d'Arc,1928,1h 50m,Passed,8.1,60K
+0088247,The Terminator,1984,1h 47m,A,8.1,912K
+15097216,Jai Bhim,2021,2h 44m,A,8.7,214K
+0381681,Before Sunset,2004,1h 20m,A,8.1,283K
+1979320,Rush,2013,2h 3m,R,8.1,506K
+0036868,The Best Years of Our Lives,1946,2h 50m,Approved,8.1,69K
+0074958,Network,1976,2h 1m,UA,8.1,168K
+0070047,The Exorcist,1973,2h 2m,A,8.1,448K
+0113247,La haine,1995,1h 38m,Not Rated,8.1,192K
+0092005,Stand by Me,1986,1h 29m,U,8.1,434K
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,2h 23m,UA,8.1,1.2M
+0032138,The Wizard of Oz,1939,1h 42m,U,8.1,423K
+0317705,The Incredibles,2004,1h 55m,U,8.0,794K
+0758758,Into the Wild,2007,2h 28m,U,8.1,650K
+0035446,To Be or Not to Be,1942,1h 39m,Passed,8.1,42K
+1028532,Hachi: A Dog's Tale,2009,1h 33m,U,8.1,306K
+4016934,Ah-ga-ssi,2016,2h 25m,A,8.1,168K
+0476735,My Father and My Son,2005,1h 52m,Not Rated,8.2,91K
+0032551,The Grapes of Wrath,1940,2h 9m,Passed,8.1,99K
+0058946,La battaglia di Algeri,1966,2h 1m,Not Rated,8.1,65K
+0107048,Groundhog Day,1993,1h 41m,U,8.0,673K
+0059742,The Sound of Music,1965,2h 52m,U,8.1,256K
+0245712,Amores perros,2000,2h 34m,A,8.1,251K
+0032976,Rebecca,1940,2h 10m,Approved,8.1,145K
+0061512,Cool Hand Luke,1967,2h 7m,A,8.1,187K
+0129167,The Iron Giant,1999,1h 26m,U,8.1,222K
+1454029,The Help,2011,2h 26m,UA,8.1,486K
+0025316,It Happened One Night,1934,1h 45m,Passed,8.1,111K
+0048473,Pather Panchali,1955,2h 5m,U,8.2,38K
+0053198,The 400 Blows,1959,1h 39m,U,8.1,126K
+0103639,Aladdin,1992,1h 30m,U,8.0,458K
+0099348,Dances with Wolves,1990,3h 1m,U,8.0,286K
